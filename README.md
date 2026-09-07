@@ -8,4 +8,4 @@
 
 ## 关于课件
 课件已清理为纯净的独立网页：不含任何第三方平台的品牌横幅、favicon、分享元信息与统计埋点脚本。
-`scripts/de_arena.py` 为当时的清理脚本，`scripts/make_index.py` 用于重新生成课程目录页。
+`scripts/clean_pages.py` 为当时的清理脚本，`scripts/make_index.py` 用于重新生成课程目录页。
